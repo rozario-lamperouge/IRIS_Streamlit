@@ -104,7 +104,7 @@ page = st.sidebar.radio(
 
 # ==================== ABOUT PAGE ====================
 if page == "🏠 About":
-    st.title("🌸 MLOps Iris Classification")
+    st.title("🌸 Iris Classification")
     st.markdown("### A Complete MLOps Workflow Demo")
     
     col1, col2 = st.columns([2, 1])
